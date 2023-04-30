@@ -56,7 +56,8 @@ ul {
 }
 
 .news__title{
-  text-align: center;
+  text-align: left;
   color: #2C2A2A;
   font-size: 22px;
+  font-weight: 700;
 }
