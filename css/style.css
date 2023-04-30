@@ -25,3 +25,11 @@ ul {
   margin: 0 auto;
   padding: 0 15px;
 }
+
+.header__content {
+  background-image: url(../img/header-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
