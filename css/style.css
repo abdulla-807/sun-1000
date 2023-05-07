@@ -26,6 +26,14 @@ ul {
   padding: 0 15px;
 }
 
+
+.header__content {
+  background-image: url(../img/header-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
 .title {
   color: #2E2E3C;
   font-weight: 700;
@@ -61,4 +69,5 @@ ul {
 .products {
   display: flex;
   justify-content: center;
+
 }
