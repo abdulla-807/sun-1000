@@ -26,6 +26,42 @@ ul {
   padding: 0 15px;
 }
 
+.news{
+  background: #D7D6DC;
+}
+
+.news__list{
+  display: flex;
+  justify-content: space-between;
+}
+
+.title{
+  font-size: 24px;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.news__card{
+  max-width: 350px;
+  width: 100%;
+  padding: 15px;
+  background: #fff;
+  border-radius: 3px;
+}
+
+.news__img{
+  max-width: 320px;
+  height: 263px;
+  object-fit: cover;
+}
+
+.news__title{
+  text-align: left;
+  color: #2C2A2A;
+  font-size: 22px;
+  font-weight: 700;
+  }
+
 
 .header__content {
   background-image: url(../img/header-bg.jpg);
@@ -69,5 +105,6 @@ ul {
 .products {
   display: flex;
   justify-content: center;
+
 
 }
